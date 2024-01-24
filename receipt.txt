@@ -1,0 +1,7 @@
+*** Theatre Receipt ***
+Customer Name: hhs
+Movie Name: ww
+Seat Number: 2a
+Seats to Book: 1
+Total Amount: $2400
+*************
