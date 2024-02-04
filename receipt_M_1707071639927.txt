@@ -1,0 +1,7 @@
+*** Theatre Receipt ***
+Customer Name: masab
+Movie Name: haha
+Seat Number: 1
+Seats to Book: 2
+Total Amount: $4800
+*************
